@@ -20,4 +20,4 @@ C
 4. Open as many terminals as you want and type in ./client localhost
 
 ##Pictures from the run:
-![server](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/server.png)
+![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/server.png)
