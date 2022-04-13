@@ -13,7 +13,7 @@ C
 
 
 ##  Run:
-1.Go to makefile and turn on all
+ 1.Go to makefile and turn on all
 
 2. Run the new server (the server that running by thread) by typing in terminal ./server or the original server by typing ./original_server
 
@@ -21,6 +21,10 @@ C
 
 ## Pictures from the run:
 
-our server running:
+Our server running:
 
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/server.png)
+
+The connection of the clients:
+
+![alt text])(https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/connection.png)
