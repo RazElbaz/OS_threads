@@ -19,7 +19,8 @@ C
 
 4. Open as many terminals as you want and type in ./client localhost
 
-##Pictures from the run:
+## Pictures from the run:
 
 our server running:
+
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/server.png)
