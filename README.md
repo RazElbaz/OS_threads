@@ -29,7 +29,7 @@ The connection of the clients:
 
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/connection.png)
 
-Clients received "" Hello, world! ":
+Clients received " Hello, world! ":
 
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/done.png)
 
@@ -37,6 +37,6 @@ The original server is running:
 
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/original_server.png)
 
-Clients received "" Hello, world! ":
+Clients received " Hello, world! ":
 
 ![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/original_server_done.png)
