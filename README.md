@@ -27,4 +27,4 @@ Our server running:
 
 The connection of the clients:
 
-![alt text])(https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/connection.png)
+![alt text](https://github.com/RazElbaz/OS_threads/blob/main/Pictures%20from%20the%20run/connection.png)
